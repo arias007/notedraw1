@@ -1,0 +1,10 @@
+{
+  "id": "notedraw1",
+  "name": "NoteDraw1",
+  "version": "3.5.4",
+  "minAppVersion": "1.5.0",
+  "description": "Draw and edit directly on notes.",
+  "author": "Murat",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}
