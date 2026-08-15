@@ -65,7 +65,7 @@ Changing the setting preserves old data and copies the active note's current dra
 
 ## Migration
 
-This independent fork uses the plugin id:
+Version `0.0.1` is the initial NoteDraw1 experiment and uses plugin id:
 
 ```text
 notedraw1
@@ -297,4 +297,4 @@ The current package focuses on the local Obsidian plugin runtime. The API and DO
 
 ## Version
 
-Current version: `3.5.4`.
+Current version: `3.4.51`.
